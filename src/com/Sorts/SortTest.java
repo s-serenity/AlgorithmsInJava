@@ -1,6 +1,7 @@
 package com.Sorts;
 
 import com.Sorts.InsertionSort;
+import com.Sorts.BubbleSort;
 
 public class SortTest {
     public static void main(String args[]){
@@ -8,7 +9,8 @@ public class SortTest {
         for (int x:testList){
             System.out.print(x);
         }
-        InsertionSort.insertionSort(testList);
+        //InsertionSort.insertionSort(testList);
+        BubbleSort.bubbleSort(testList);
         for (int x:testList){
             System.out.print(x);
         }

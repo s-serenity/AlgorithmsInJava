@@ -10,7 +10,9 @@ public class SortTest {
             System.out.print(x);
         }
         //InsertionSort.insertionSort(testList);
-        BubbleSort.bubbleSort(testList);
+        //BubbleSort.bubbleSort(testList);
+        //MergeSort.mergeSort(testList);
+        QuickSort.quickSort(testList);
         for (int x:testList){
             System.out.print(x);
         }

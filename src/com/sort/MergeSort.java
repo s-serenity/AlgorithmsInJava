@@ -1,4 +1,4 @@
-package com.Sorts;
+package com.sort;
 
 public class MergeSort {
     public static void mergeSort(int[] list) {

@@ -1,4 +1,4 @@
-package com.Sorts;
+package com.sort;
 
 public class HeapSort {
     public static class Heap<E extends Comparable<E>>{

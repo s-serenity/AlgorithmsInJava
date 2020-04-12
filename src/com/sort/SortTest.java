@@ -1,7 +1,4 @@
-package com.Sorts;
-
-import com.Sorts.InsertionSort;
-import com.Sorts.BubbleSort;
+package com.sort;
 
 public class SortTest {
     public static void main(String args[]){

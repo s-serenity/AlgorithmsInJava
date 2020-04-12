@@ -1,4 +1,4 @@
-package com.Sorts;
+package com.sort;
 
 public class InsertionSort {
     public static void insertionSort(int[] list){
